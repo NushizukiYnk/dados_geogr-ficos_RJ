@@ -26,7 +26,7 @@ Criar visualizações geográficas interativas.
 
 notebooks/ → Análises e testes realizados no Google Colab;
 
-data/ → Conjunto de dados utilizados;
+rj_setores_censitarios.zip/ → Conjunto de dados utilizados;
 
 visualizacoes/ → Mapas e gráficos gerados durante o estudo.
 
